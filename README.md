@@ -1,5 +1,5 @@
 # MK_Shop
-Created by Nongyao Sornjapo
+Created by Thanittha Rojchonlatran
 
 ## Project setup
 ```
